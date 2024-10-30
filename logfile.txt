@@ -1,0 +1,10 @@
+[2023-10-30 10:00:01] INFO: System startet erfolgreich
+[2023-10-30 10:05:12] WARNING: Niedriger Speicherstand
+[2023-10-30 10:10:34] ERROR: Verbindung zum Datenbankserver fehlgeschlagen
+[2023-10-30 10:15:45] INFO: Verbindungsversuch gestartet
+[2023-10-30 10:20:56] INFO: Verbindung zum Server erfolgreich
+[2023-10-30 10:25:07] WARNING: Hohe CPU-Auslastung festgestellt
+[2023-10-30 10:30:18] INFO: Sicherung abgeschlossen
+[2023-10-30 10:35:29] ERROR: Backup-Ordner nicht gefunden
+[2023-10-30 10:40:40] INFO: Fehler behoben und System neu gestartet
+[2023-10-30 10:45:51] INFO: Alle Systeme laufen stabil

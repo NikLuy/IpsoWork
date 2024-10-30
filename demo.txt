@@ -1,0 +1,8 @@
+Willkommen zur Linux Open Academy!
+Dies ist eine Testdatei für die Gruppenübung.
+Hier lernt ihr grundlegende Linux-Befehle.
+Jeder Befehl hat seinen eigenen Nutzen.
+Viel Erfolg beim Üben und Entdecken neuer Befehle.
+Linux bietet eine Vielzahl an Tools für die Arbeit mit Textdateien.
+Erfahrung macht den Meister – immer schön weiterüben!
+Viel Spaß und Erfolg!
