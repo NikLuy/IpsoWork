@@ -1,5 +1,5 @@
-1	Max	Mustermann
-2	Anna	Müller
-3	John	Doe
-4	Jane	Doe
-5	Mike	Smith
+1  Max  Mustermann
+2  Anna  Müller
+3  John  Doe
+4  Jane  Doe
+5  Mike  Smith
