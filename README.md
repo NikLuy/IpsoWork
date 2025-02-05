@@ -1,7 +1,8 @@
 # Linux Cheat Sheet
 
 ## **Manual**
- ```bash
+- **Manual öffnen**
+  ```bash
   man find
   ```
 - Suchen mit /
@@ -66,7 +67,21 @@
   find /path -type f -mtime -7  # Dateien, die in den letzten 7 Tagen modifiziert wurden
   find /path -type d -name "dirname"  # Verzeichnisse suchen
   find /path -size +100M  # Dateien größer als 100MB
+  find /path -type f -exec
   ```
+  
+  ```bash
+  du -ahx / | sort -rh | head -n 5  
+  ```
+  ### Erklärung der Parameter:
+
+- `-a` → Zeigt Dateien und Verzeichnisse.
+- `-h` → Menschlich lesbare Größen (MB, GB).
+- `-x` → Beschränkt die Suche auf das aktuelle Dateisystem (nützlich, um z. B. `/proc` oder andere gemountete Partitionen auszuschließen).
+
+- `sort -rh` → Sortiert nach Größe absteigend.
+- `head -n 5` → Zeigt die 5 größten Dateien/Verzeichnisse.
+  
 
 ## **Symlinks**
 - **Symbolischen Link erstellen:**
