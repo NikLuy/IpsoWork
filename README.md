@@ -78,7 +78,7 @@
   ```bash
   du -ahx / | sort -rh | head -n 5  
   ```
-  ### Erklärung der Parameter:
+  Erklärung der Parameter:\
 
  `-a` → Zeigt Dateien und Verzeichnisse.\
  `-h` → Menschlich lesbare Größen (MB, GB).\
