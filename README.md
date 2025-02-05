@@ -122,7 +122,7 @@
 - **Laufende Prozesse anzeigen:**
   ```bash
   ps aux
-  ps aux | gerp ping
+  ps aux | grep ping
   top
   ```
 - **Prozessdetails anzeigen:**
