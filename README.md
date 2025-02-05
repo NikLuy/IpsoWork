@@ -78,10 +78,10 @@
   ```bash
   du -ahx / | sort -rh | head -n 5  
   ```
-  Erklärung der Parameter:\
+  Erklärung der Parameter:
 
- `-a` → Zeigt Dateien und Verzeichnisse.\
- `-h` → Menschlich lesbare Größen (MB, GB).\
+ `-a` → Zeigt Dateien und Verzeichnisse.
+ `-h` → Menschlich lesbare Größen (MB, GB).
  `-x` → Beschränkt die Suche auf das aktuelle Dateisystem (nützlich, um z. B. `/proc` oder andere gemountete Partitionen auszuschließen).\
 
  `sort -rh` → Sortiert nach Größe absteigend.\
