@@ -1,5 +1,11 @@
 # Linux Cheat Sheet
 
+## **Manual**
+ ```bash
+  man find
+  ```
+- Suchen mit /
+
 ## **Rechte**
 - **Berechtigungen anzeigen:**
   ```bash
