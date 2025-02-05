@@ -122,6 +122,7 @@
 - **Laufende Prozesse anzeigen:**
   ```bash
   ps aux
+  ps aux | gerp ping
   top
   ```
 - **Prozessdetails anzeigen:**
