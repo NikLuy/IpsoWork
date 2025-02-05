@@ -42,6 +42,10 @@
   id username
   cat /etc/passwd
   ```
+- **Benutzerinformationen anzeigen:**
+  ```bash
+  sudo cat /etc/shadow
+  ```
 
 ## **Logs**
 - **Logs anzeigen:**
