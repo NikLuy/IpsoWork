@@ -207,5 +207,6 @@
 - **Python-Skript ausführen:**
   ```bash
   python3 script.py
+  python3 generate_random_files.py
   ```
 
