@@ -42,7 +42,7 @@
   id username
   cat /etc/passwd
   ```
-- **Benutzerinformationen anzeigen:**
+- **Passworthash anzeigen:**
   ```bash
   sudo cat /etc/shadow
   ```
