@@ -5,7 +5,8 @@
   ```bash
   man find
   ```
-  Suchen mit /
+  Suchen mit /\
+  Abbrechen mit "Q"
 
 ## **Rechte**
 - **Berechtigungen anzeigen:**
