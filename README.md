@@ -78,13 +78,13 @@
   ```bash
   du -ahx / | sort -rh | head -n 5  
   ```
- ```bash
- `-a` → Zeigt Dateien und Verzeichnisse.
- `-h` → Menschlich lesbare Größen (MB, GB).
- `-x` → Beschränkt die Suche auf das aktuelle Dateisystem (nützlich, um z. B. `/proc` oder andere gemountete Partitionen auszuschließen).\
+  ```bash
+  `-a` → Zeigt Dateien und Verzeichnisse.
+  `-h` → Menschlich lesbare Größen (MB, GB).
+  `-x` → Beschränkt die Suche auf das aktuelle Dateisystem (nützlich, um z. B. `/proc` oder andere gemountete Partitionen auszuschließen).\
 
- `sort -rh` → Sortiert nach Größe absteigend.\
- `head -n 5` → Zeigt die 5 größten Dateien/Verzeichnisse.\ 
+  `sort -rh` → Sortiert nach Größe absteigend.\
+  `head -n 5` → Zeigt die 5 größten Dateien/Verzeichnisse.\ 
   ``` 
 
 ## **Symlinks**
