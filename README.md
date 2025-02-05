@@ -7,6 +7,12 @@
   ```
   Suchen mit /\
   Abbrechen mit "Q"
+  
+## **Runlevel**
+- **Berechtigungen anzeigen:**
+  ```bash
+  runlevel
+  ```
 
 ## **Rechte**
 - **Berechtigungen anzeigen:**
