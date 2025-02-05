@@ -129,6 +129,13 @@
   cat /proc/<PID>/cmdline  # Prozessbefehl
   cat /proc/<PID>/environ   # Umgebungsvariablen
   ```
+- **Apache starten**
+  ```bash
+  sudo systemctl start apache2  
+  sudo systemctl stop apache2
+  sudo systemctl status apache2  
+  ```
+
 
 ## **Timezone**
 - **Zeitzone anzeigen:**
