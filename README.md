@@ -249,4 +249,12 @@
   python3 script.py
   python3 generate_random_files.py
   ```
+## **Domain**
+- **TXT Records**
+  ```bash
+  dig TXT github.com
+  dig TXT github.com +short
+  ```
+
+  
 
