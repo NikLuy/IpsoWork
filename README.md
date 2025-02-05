@@ -129,11 +129,16 @@
   cat /proc/<PID>/cmdline  # Prozessbefehl
   cat /proc/<PID>/environ   # Umgebungsvariablen
   ```
-- **Apache starten**
+- **Apache starten / stoppen / status**
   ```bash
   sudo systemctl start apache2  
   sudo systemctl stop apache2
   sudo systemctl status apache2  
+  ```
+- **Apache log**
+  ```bash
+  cat  /var/log/apache2/access.log  
+  cat  /var/log/apache2/access.log  |tail 2 #letzte 2 Einträge
   ```
 
 
