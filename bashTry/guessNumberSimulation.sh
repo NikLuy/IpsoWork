@@ -5,7 +5,7 @@ min=1
 max=10
 random_number=$(( RANDOM % (max - min + 1) + min ))
 guess=0
-try=1000
+try=10
 currentTry=0
 
 echo let\'s start a Game!
@@ -24,7 +24,6 @@ for ((currentTry = 0 ; i < $try ; i++)); do
 
 done
 
-# If user runs out of tries, reveal the correct number
 if [ "$currentTry" -ge "$try" ]; then
   echo "Sorry, you're out of tries! The correct number was $random_number."
 else
