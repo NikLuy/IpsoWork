@@ -1,0 +1,16 @@
+Stage 3:
+a) store the data from stage 2 in a file With two columns:
+Example table:
+#simulation/iteration and
+sim#    #guesses    #delta zu avg
+1       1           1-3 = 2
+2       3
+3       5
+4       6
+1000    6
+
+
+b) calculate the avg(#guesses)
+c) calculate deviation per iteration (simulation) from #of guesses to avg(#guesses)
+d) print the top 10 result in ascending order of the absolute deviation number
+
